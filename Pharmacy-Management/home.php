@@ -14,6 +14,7 @@
     <script src="js/restrict.js"></script>
   </head>
   <body>
+	  //Header php
     <?php include "sections/sidenav.html"; ?>
     <div class="container-fluid">
       <div class="container">
